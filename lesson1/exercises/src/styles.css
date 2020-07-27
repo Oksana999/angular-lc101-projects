@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #d9d9bf;
+background-image: url("https://media.istockphoto.com/photos/seashells-on-seashore-beach-holiday-background-picture-id479311744?k=6&m=479311744&s=170667a&w=0&h=_KVY8-kGNZKS_ZeTYKoGaKDGsX7j_i-7vvjiqwVrHHU=");
+background-size: cover;
+}

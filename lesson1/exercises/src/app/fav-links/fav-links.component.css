@@ -1,0 +1,12 @@
+.favLinks {
+  text-align: center;
+  color: blue;
+  font-size: 20px;
+  font-family: Candara;
+  font-weight: bolder;
+}
+
+h2 {
+  /*text-align: center;*/
+  text-decoration: underline;
+}
