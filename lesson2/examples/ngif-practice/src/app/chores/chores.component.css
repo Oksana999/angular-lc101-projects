@@ -5,14 +5,22 @@
 .doneChores {
     color: #3c79b8;
 }
+.iceCreamRules {
+  color: olive;
+  text-align: center;
+}
 
 h3 {
     text-align: center;
 }
 
 img {
-    max-width: 15%;
+    max-width: 20%;
     height: auto;
     display: block;
     margin: auto;
+}
+#rulesForIceCream {
+  color: olive;
+  text-align: center;
 }
